@@ -3,6 +3,7 @@
 
 <p align="center">
     Olá, fiz um Website moderno e totalmente responsivo. Foram utilizados HTML, CSS, JS, JQuery e algumas API.
+    (Deixo claro que nomes, marcas e links são todos fictícios  e para fins educacionais)
 </p>
 
 <h2 id="started">Comandos e necessidades para inicar</h2>
