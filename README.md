@@ -2,7 +2,7 @@
 <h1 align="center" style="font-weight: bold;">Blur</h1>
 
 <p align="center">
-    Olá, fiz um Website moderno e totalmente responsivo. Foram utilizados HTML, CSS, JS, JQuery e algumas API.
+    Olá, fiz um Website moderno e totalmente responsivo. Foram utilizados HTML, CSS, JS, JQuery e algumas API.<br>
     (Deixo claro que nomes, marcas e links são todos fictícios  e para fins educacionais)
 </p>
 
