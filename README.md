@@ -17,7 +17,7 @@ Extensão live server do Visual Studio.
 Como clonar o projeto
 
 ```bash
-git clone https://github.com/nikolgadx/Jogo-do-mosquito
+git clone https://github.com/nikolgadx/Website-moderno-e-responsivo
 ```
 
 
